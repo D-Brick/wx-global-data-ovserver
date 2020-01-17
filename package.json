@@ -3,13 +3,13 @@
   "version": "1.0.0",
   "description": "Observe globalData in app.js for Weixin mini program",
   "miniprogram": "dist",
-  "main": "dist/Index.js",
+  "main": "dist/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/D-Brick/WxMinix.git"
+    "url": "git+https://github.com/D-Brick/wx-global-data-ovserver"
   },
   "keywords": [
     "globalData",
@@ -20,7 +20,7 @@
   "author": "d-brick",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/D-Brick/WxMinix/issues"
+    "url": "https://github.com/D-Brick/wx-global-data-ovserver/issues"
   },
-  "homepage": "https://github.com/D-Brick/WxMinix#readme"
+  "homepage": "https://github.com/D-Brick/wx-global-data-ovserver#readme"
 }
